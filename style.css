@@ -1,0 +1,64 @@
+#principal{
+    margin: auto;
+    margin-bottom: 35px;
+    width: 30%;
+    border: solid 2px red
+    
+    
+}
+
+#div1{
+    border: solid 1px red;
+    background-color: black;
+}
+
+ #div1 h1{
+    text-align: center;
+    color: white;
+}
+#div1 h2{
+    text-align: center;
+    color: blue;
+}
+#div2{
+    height: 70px;
+    background-color: blue;
+    border: solid 1px red;
+}
+#div2 footer{
+    text-align: center;
+    position: top
+    ;
+    
+     
+}
+
+#principal2{
+    
+    margin: auto;
+    width: 30%;
+    border: solid 2px red
+
+    
+    
+}
+
+#div3{
+    border: solid 1px red;
+    background-color: black;
+    height: 70px;
+}
+
+
+
+#div4{
+    height: 150px;
+    background-color: rgb(23, 23, 119);
+    border: solid 1px red;
+
+}
+
+#div4 h3{
+    text-align: center;
+    margin-bottom: 5px;
+}
